@@ -1,3 +1,9 @@
+.sectionHeader::before {
+	font-size: 4em;
+}
+.sectionHeader.on::before {
+	font-size: 2em;
+}
 .container {
 	margin:0;
 	padding:0;
