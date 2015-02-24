@@ -19,12 +19,12 @@
 $(document).ready(function() {
 	$(".sectionHeader").click(function(){
 		var $self = $(this);
-		var $nextUI = $self.parent().next();
+		var $nextUI = $self.next();
 		$(".sectionHeader").not($self).removeClass("on");
 		$(".sectionText").not($nextUI).hide();
 
 		$(this).toggleClass("on");
-		$(this).parent().next().toggle();
+		$(this).parent().toggle();
 	});
 
 	//$(".sectionText").toggle();
