@@ -15,7 +15,8 @@
 
 </script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script type="text/javascript">
+<script >
+$(document).ready(function() {
 	$(".sectionHeader").click(function(){
 		var $self = $(this);
 		var $nextUI = $self.parent().next();
@@ -25,6 +26,8 @@
 		$(this).toggleClass("on");
 		$(this).parent().next().toggle();
 	});
+})
+	
 </script>
 </head>
 
