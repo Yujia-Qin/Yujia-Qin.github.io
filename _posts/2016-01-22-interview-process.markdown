@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Interview Process"
+date:   2016-01-22 23:38:00 -0600
+categories: jekyll update
+---
+
+What was your job (or intern) interview process like? What surprised you? What frustrated you? What excited you? How did you prepare? How did you perform?
+
+What is your overall impression of the general interview process? Is it efficent? Is it effective? Is it humane? Is it ethical?
+
+I've been through a few intern interviews, and they are generally really interesting and stressful experience. The first time I got a technical interview was my sophomore year. It was really frightening at the time, because I had no experience at all, and I just could not see myself writing good code on the spot. Besides, I thought the interview would always be really stressful, so there would be so many uncertainties even for a great programmer. 
+
+I was surprised the interviews actually came out better than I thought. Of course different companies have very different focus and hiring process, but all of them evaluate candidates based on coding ability. For my interview in sophomore year, the interviewers understood that I haven't taken much CS classes yet, so the questions are not super hard graph questions. They are not easy, but could be solved with some thoughts. The interviewers seem to care more about how I approach the problem, my thoughts behind all the actions I take, and what edge cases I consider. They also care a lot about my ability to learn and apply new information. For example, there was a concept used in one of the questions, but I haven't learned that yet, so the interviewer explained to me the basic cases. After I solved the basic case, he went on asking for a more complex situation, an was very satisfied when I was able to apply what I just learned to solve the new problem. 
+
+The interviews in my junior year were much more systematic and technical. They care much about the basic data structures and algorithms, and a lot of the questions asked are classical interview questions, which involved binary tree, recursion etc. There were some questions about dynamic programming that I did pretty bad on. I did have a really bad interview experience with a company. The interview sounds really impatient at the start, and he didn't seem to prepare any question at all. His question was really unclear, and seems super easy but without thoughts. I have to ask him a lot of questions, but he didn't not seem to know what he wanted either. After the interview, I just felt like I was not wanted at all and he mentally rejected me even before the interview started. It is a little frustrating, but then I thought maybe he just had a really busy day or some deadline was coming up and he was not in a good mood.
+
+I think my general impression for interviews are alright, and I do think they are somewhat effective to determine good candidates. However, just like what the author says in "On the unreasonable reality of “junior” developer interviews", a lot of the whiteboard coding on the spot could not effectively reveal how good a candidate is. People could pratice on interview questions and happen to get them in real interviews, while they might not be that qualified. And I think interview question preparation has become so popular, that you would lag behind if you do not practice these questions. However, I feel like having the skill to solve a coding question on whiteboard does not necessarilly correspond to the real world problem solving skill, which are far more important. A lot of the interviewers are paying more attention to the thought process, which is a lot better. 
+
+In general, I've learned to not to take interviews or job offers too personal/serious. So many factors come into play in interviews. However, I do know I need to be prepared and keep programming, and leave the rest to luck.
