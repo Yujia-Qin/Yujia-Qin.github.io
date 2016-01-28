@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Ethics Code"
@@ -29,7 +28,7 @@ General Moral Imperatives
 1.7 Be a positive representative for Computer Science and Engineering major on campus
 	As a CSE student at Notre Dame, one should be a positive image for people of other majors. One should be able and willing to give a general overview of the major, and help others to learn more about tech industry in general and how that relates to our lives.
 
-Course Work Related Rules (David)
+Course Work Related Rules
 
 2.1 Comitance to not harm Fellow Students
 Notre Dame students should act with respect and kindness when dealing with other students.  At no time should a student act in any way such that they purposefully hinder another student’s ability to do well in a course.  
