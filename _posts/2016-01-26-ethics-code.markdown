@@ -7,6 +7,7 @@ categories: jekyll update
 
 
 **General Moral Imperatives**
+
 1.1 Be honest to others and yourself
 	Honesty is the most important quality both in academics and life. Computer Science and Engineering students at Notre Dame should always put honesty at the top when making decisions. Being honest with others, and also with yourself. A lot of times honesty is a choice that no one knows but yourself.
 
