@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-General Moral Imperatives 
+**General Moral Imperatives **
 1.1 Be honest to others and yourself
 	Honesty is the most important quality both in academics and life. Computer Science and Engineering students at Notre Dame should always put honesty at the top when making decisions. Being honest with others, and also with yourself. A lot of times honesty is a choice that no one knows but yourself.
 
@@ -28,7 +28,7 @@ General Moral Imperatives
 1.7 Be a positive representative for Computer Science and Engineering major on campus
 	As a CSE student at Notre Dame, one should be a positive image for people of other majors. One should be able and willing to give a general overview of the major, and help others to learn more about tech industry in general and how that relates to our lives.
 
-Course Work Related Rules
+**Course Work Related Rules**
 
 2.1 Comitance to not harm Fellow Students
 Notre Dame students should act with respect and kindness when dealing with other students.  At no time should a student act in any way such that they purposefully hinder another student’s ability to do well in a course.  
@@ -45,7 +45,7 @@ Each student involved in a group project should make an effort to contribute a f
 2.5 Sources should be Properly Cited
 Students who use sources outside of those explicitly mentioned in class must cite those sources.  This includes but is not limited to Stack Overflow questions, reference manuals, and code found on code repositories.
 
-Compliance with the Code 
+**Compliance with the Code**
 
 3.1 Uphold and promote the principles of this Code.
 The future of the computing profession depends on both technical and ethical excellence. Every student in Computer Science and Engineering at Notre Dame not only should commit to following these principles expressed in the code but also strive to encourage their classmates and co-workers in external employments to also adhere to them as well.  
