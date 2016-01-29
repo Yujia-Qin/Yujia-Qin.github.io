@@ -5,7 +5,7 @@ date:   2016-01-26 23:38:00 -0600
 categories: jekyll update
 ---
 
-Our ethics code is posted at here{{http://www.davidmattia.xyz/viewPost/5}}. But I also posted it on my blog.
+Our ethics code is posted at <a href="http://www.davidmattia.xyz/viewPost/5">here</a>. But I also posted it on my blog.
 
 The new Code of Ethics for Notre Dame CSE students is a more specific, practical ethical code that relates to CSE students. We have a specific section for academic code of conduct for CSE students specifically, which covers various aspects on the specifc rules regarding CSE course work. For example, we have a section about group projects in CSE classes. Besides, we emphasize Notre Dame values in our code, urging students to consider the social impact and responsibility they have as computer scientists.
 
