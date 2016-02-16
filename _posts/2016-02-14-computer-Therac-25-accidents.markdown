@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Therac-25-accidents"
-date:   2016-02-07 14:38:00 -0600
+date:   2016-02-14 14:38:00 -0600
 categories: jekyll update
 ---
 
