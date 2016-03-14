@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Open Source"
+date:   2016-03-14 14:38:00 -0600
+categories: jekyll update
+---
+
+Based on the definition at <a href="http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf">WIPO</a>, copyright is part of intellectual property that covers literary works, films, music, artistic works, and architectural design. It is natural for people to assume that they have ownership on their creative works, and copyright is a way to recognize their contribution. Moreover, copyright also provides the creators rights to benefit from their work for a certain amount of time. Therefore, it could potentially encourage more creative works.
+
+Open source softwares have great benefits. They encourage collaberation on the software, which could make software development more efficient and better. They also allow everyone to read the source code by great software engineers, and thus are great educational resources. I like open source softwares, but I am not sure if they are inherently better. Although I would love to have access to the source code of my program, I feel like there might be cases where it is actually better not to leak the source code. Maybe the software is related to some important security issues, and it would benefit people more if the source code remains closed. Anyways, I think we always need to be cautious about being too certain on any opinions.
+
+That being said, I am a strong supporter of open source softwares. I think being open in general is benefitial for the community as a whole, and for the owner as well in the long run. For example, Android Open Source Project has been extremely successful. It is the most popular mobile operating system in the world. Because it is open sourced, different hardware/tech companies could modify the operating system based on their own hardware/brand, so that android becomes extremely versatile. It could run on high end cell phones like Samsung S7, and it also supports basic and extremely cheap smartphones, so that people of all social-economical background are able to enjoy the mobile service. Yes open source does create many problems, like inconsistent performance on different hardware, but overall I think making android open source has much more benefits in the long run. It makes the OS more versatile and has more potential to adapt to the future world.
+
+I never noticed the difference between open source and free software before reading articles on this topic. It does seem to be an interesting problem to notice. I think both have reasons to exist, but I personally prefer free software, after learning more about the distinction. It does seem to be more reasonable for developers to have full access to the source code. If they are free to make contributions, then they should be entitled to get full access to the executables.
+
+I think public organizations, as well as for profit companies should consider to open source their projects. It would be a great thing for the developer community as a whole, and it could be really benefitial for the company as well. The organizations should make clear about the guidelines to make contributions. If there is any restriction, they should make sure to inform everyone in advance.
