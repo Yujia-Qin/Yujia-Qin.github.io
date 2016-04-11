@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence"
-date:   2016-03-28 21:38:00 -0600
+date:   2016-04-04 21:38:00 -0600
 categories: jekyll update
 ---
 
