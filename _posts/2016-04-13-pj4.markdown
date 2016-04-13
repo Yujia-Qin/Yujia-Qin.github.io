@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Project 4"
+date:   2016-04-13 21:38:00 -0600
+categories: jekyll update
+---
+
+For this project, we made a podcast for the movie Her.
+
+Here is the link to our <a href="http://unethicalcoding101.tumblr.com/post/142752022902/her2014">podcast</a>.
+
+We had some interesting discussions about this movie. It is clear that even the three of us in the group have very different perspectives on the movie. Someone thinks that the OS is fundamentally different from humans. It is able to develop relationship with hundreds of people, and this behavior is so different from human norm that we can never put AI in the same level as humans. Others think that being different does not necessarily mean that they are inferior to humans, and it is an interesting question to categorize what is normal and what is not.
+
+I am not sure whether what is depicted in the movie will ever become reality in the future, but it definitely shows some popular concerns over AI development. Singularity is an idea that becomes really popular recently. It depicts a future about AI that is so mature that it could evolve and learn on it own and eventually outwits human beings. This movie is less about Artifitial Intelligence hurting human beings, but rather takes a more interesting perspective on the ethical side of things. If AI outwits humans not in abilities, but in emotions, how can we treat these aritificial emotions? Should we consider them as equal as human emotions, and these AI as equal as human life? I think this movie poses interesting questions for people to think about.
