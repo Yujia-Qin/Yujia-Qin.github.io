@@ -5,6 +5,7 @@ date:   2016-04-18 21:38:00 -0600
 categories: jekyll update
 ---
 
+
 After reading the articles, I believe that everyone should be exposed to coding and it should be a required class for K-12 education.
 
 The arguments in the article <a href="http://www.trustedreviews.com/news/jason-bradbury-coding-lessons-in-schools-are-a-waste-of-time">Coding lessons in schools are a waste of time</a> is kind of rediculous. The author claimed that soon computers will code for people, so learning how to code is a waste of time. Although compiler technology and increasing layers of frameworks have made coding more accessible for people, I don't think people can ever stop coding for innovation. A lot of development in various disciplines utilize computer science, like Economics, biology, and even art and literature. To create things with modern technology, people will need to know how to code. Besides, having something automated for you doesn't mean learning this particular knowledge is useless. We have calculators to do math calculations, and various other softwares and programs to do simulations, so it seems that math should be the most "useless" subject in the modern world. Yet I don't think anyone is going to take out math education soon. It is the methodology and thinking that developed while learning math that makes it valuable. The same arguments apply to computer science. It has become so important to modern life that learning basic computer science will be benefitial for people in the modern world.
