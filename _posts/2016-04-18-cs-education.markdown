@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CS Education"
-date:   2016-04-18 21:38:00 -0600
+date:   2016-04-18 20:38:00 -0600
 categories: jekyll update
 ---
 
