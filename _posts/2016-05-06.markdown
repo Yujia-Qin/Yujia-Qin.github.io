@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CS Education"
+date:   2016-05-06 20:38:00 -0600
+categories: jekyll update
+---
+
+
+PJ5 link: <a href="http://unethicalcoding101.tumblr.com/post/143279282402/computer-science-curriculum">podcast on ND CS</a>
