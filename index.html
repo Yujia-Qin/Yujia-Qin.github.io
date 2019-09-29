@@ -69,6 +69,16 @@
       -moz-transition: opacity .2s ease-in-out;
       -webkit-transition: opacity .2s ease-in-out;
     }
+
+    .holder {
+      display: inline;
+    }
+
+    .holder img {
+      max-height: 300px;
+      max-width: 300px;
+      object-fit: cover;
+    }
     
     span.highlight {
       background-color: #ffffd0;
@@ -103,7 +113,9 @@
               </p>
             </td>
             <td width="33%">
-              <img src="assets/images/profile.jpeg">
+            	<div class='holder'>
+              	<img src="assets/images/profile.jpeg">
+            	</div>
             </td>
           </tr>
         </table>
